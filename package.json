@@ -1,6 +1,6 @@
 {
   "name": "dank-cast",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cast values to more specific types with default values if they can't be casted",
   "main": "index.js",
   "scripts": {

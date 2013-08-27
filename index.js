@@ -20,7 +20,7 @@ Cast.prototype.bool = function (val, otherwise) {
 		0 : false
 	}[(new String(val)).toLowerCase()];
 	
-	if (result == true || result == false) {
+	if (result === true || result === false) {
 		return result;
 	}
 	else {
